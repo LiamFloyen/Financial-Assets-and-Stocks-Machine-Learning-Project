@@ -1,6 +1,9 @@
+
 # Machine Learning for Financial Analysis
 
 ## Introduction
+
+Dear reader, my name is Tran Vinh Luan but you can called me as Liam.
 
 This repository is a collection of Jupyter notebooks that serves as a platform to explore the intersection of machine learning and finance. In these notebooks, we delve into various techniques and methodologies that harness the power of data science to make more informed financial decisions. Whether you're a finance professional, a data scientist, or someone curious about the applications of machine learning in the financial domain, this repository has something to offer.
 
